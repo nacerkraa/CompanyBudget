@@ -12,4 +12,5 @@ const Remaining = () => {
         </div>
     );
 };
+
 export default Remaining;
